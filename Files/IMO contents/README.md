@@ -1,3 +1,5 @@
+<p align="left">
+
 These are notes/problem sheets to some of my talks in AOPS, IYSC,... 
 The notes are mostly in Persian/Farsi. Almost all of these notes are publicly available for free. I try to give a short discreption of each note in here:
 
