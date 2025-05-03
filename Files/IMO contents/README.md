@@ -1,7 +1,7 @@
 <p align="left">
 
   These are notes/problem sheets to some of my talks in AOPS, IYSC,... 
-  The notes are mostly in Persian/Farsi. Almost all of these notes are publicly available for free. I try to give a short discreption of each note in here:
+  The notes are mostly in Persian/Farsi and almost all of them are publicly available for free. I try to give a short discreption of each note in here:
 
   #### Iran Summer Camp 2021 Number Theory Problem Sheets
   During my experience as the head of number theory team in Iran summer camp (training participants for the third round) I, along with the other heads and tutors, made a problem set of 8 topics of number theory that are taught in the summer camp. Almost all of these problems are chosen from mathematical olympiads and books. The topics go on from the Fermat's little theorem and Euler totient function all the way to primitive roots, Pólya-Vinogradov Inequality and Dirichlet characters, some of which are not included in the syllabus but taught as extra contents. All of the problem sets also have a hint/solution set for the aforementioned problems. I also did give one of the number theory lectures of the summer camp, which went on about the quadratic reciprocity and some of its proofs and consequences, along with solving some problems on this topic.
